@@ -1,0 +1,4 @@
+{
+    "eduroam": {"netsec": "WPA2_ENT", "timeout": 5000, "username": "convidado@ufp.pt", "password": "012938", "identity": "convidado@ufp.pt", "brokerip" : "10.100.126.17", "brokerport" : "1883"},
+    "homenet": {"netsec": "WPA2", "timeout": 5000, "username": "None", "password": "xpto", "identity": "None", "brokerip" : "192.168.1.70", "brokerport" : "1883"}
+}
